@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lokesh\AndroidStudioProjects\Calculator\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0a755addd51258f534e40e7834651f41ed0912d6">
+        <dex dex="C:\Users\Lokesh\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2d68d347edd7b0f5e6b45dc1197cf3156e1883e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Lokesh\AndroidStudioProjects\Calculator\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\Lokesh\AndroidStudioProjects\Calculator\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_5b2f027988bf34395036ac23c240f28b80701700\classes.dex" />
+    </item>
+
+</items>
